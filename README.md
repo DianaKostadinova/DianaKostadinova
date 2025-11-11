@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diana Kostadinova</h1>
 <h3 align="center">passionate Software Engineering Student from Skopje</h3>
 
-- 🔭 I’m currently working on **Skope**
+- 🔭 I’m currently working on [Skope](https://github.com/DianaKostadinova/Skope)
 
 - 📫 How to reach me **dkostadinova112@gmail.com**
 
